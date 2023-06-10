@@ -32,9 +32,9 @@
   I am an aspring Software Engineer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> on a Journey.
   - :telescope: I’m working as a Website tester and contributing to frontend and backend for building web applications.
 
-- :seedling: Exploring Technical Content Writing.
+- :seedling: Exploring Technical Content Writing, Digital Ads and Public speaking.
 
-- :zap: In my free time, I solve problems on GeeksforGeeks and read tech articles.
+- :zap: In my free time, I engage in solving puzzle problems with kids and Check on my chess progress .
 
 - :mailbox:How to reach me: 1x4-0x2-1-0x2-1-0-1x3-0x6-1x4-0x2-1-0x3-1x3
   
